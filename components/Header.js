@@ -1,11 +1,14 @@
 import Head from 'next/head';
+import { siteTitle, siteDescription } from 'config'
 
 
 const Headers = () => {
 	return (
 		<Head>
-			<title>David Flores | Full Stack Web Developer</title>
+			<title>{siteTitle}</title>
 			<link rel="icon" type="image/ico" href="img/favicon/favicon.ico"></link>
+			<meta name="description" content={siteDescription} />
+			<meta property="og:image" content="img/ogimage/screen.png" />
 			{/* Scroll Reveal */}
 			<script src="https://unpkg.com/scrollreveal"></script>
 

@@ -1,7 +1,7 @@
 module.exports = {
 	siteTitle: 'David Flores | Full Stack Web Developer',
 	siteDescription:
-		'',
+		'David es un desarrollador web que se especializa en la creación (y ocasionalmente en el diseño) de sitios web.',
 	siteKeywords:
 		'front-end, web developer, javascript, react',
 	siteUrl: '',
