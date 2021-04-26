@@ -89,7 +89,7 @@ module.exports = {
 		},
 
 		{
-			link: 'https://noticiassagitariodemonagas.vercel.app/',
+			link: 'https://sagitariomonagas.vercel.app/',
 			title: 'El Sagitario de Monagas',
 			description:
 				'Un sitio web de noticias, el cual se le puede añadir contenido que se almacena los datos en MongoBD',
